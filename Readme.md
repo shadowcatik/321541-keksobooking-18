@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Оксана Мельник](https://up.htmlacademy.ru/javascript/18/user/321541).
-* Наставник: `Неизвестно`.
+* Наставник: `No`.
 
 ---
 
